@@ -1,6 +1,6 @@
 # EZ_InSAR 中文帮助文档
 
-EZ-InSAR（原名为MIESAR，即Matlab Interface for Easy InSAR）是一个用MATLAB编写的工具箱，其使用开源软件（ISCE+StaMPS/MintPy）在一个用户友好的图形用户界面（GUI）中进行干涉合成孔径雷达（InSAR）数据处理。
+[EZ-InSAR](https://github.com/insarwxw/EZ-InSAR)（原名为MIESAR，即Matlab Interface for Easy InSAR）是一个用MATLAB编写的工具箱，其使用开源软件（ISCE+StaMPS/MintPy）在一个用户友好的图形用户界面（GUI）中进行干涉合成孔径雷达（InSAR）数据处理。
 
 
 ### 本中文文档与[EZ_InSAR英文帮助文档](https://github.com/insarwxw/EZ-InSAR/blob/Version_2_0_0_Beta/EZINSAR_BIN/docs/EZ_InSAR_manual_v2_0_2_beta.pdf)对应，译者信息：
