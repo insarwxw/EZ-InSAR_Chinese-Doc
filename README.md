@@ -6,7 +6,11 @@ EZ-InSAR（原名为MIESAR，即Matlab Interface for Easy InSAR）是一个用MA
 ### 本中文文档与EZ_InSAR英文帮助文档对应，译者信息：
 
 影像大地测量与地质灾害研究小组
+
 (Group of Imaging Geodesy and Geohazards, Go-IMAGE)
+
 西南交通大学地球科学与环境工程学院
+
 联系人：王晓文
+
 邮箱：insarwxw@swjtu.edu.cn
