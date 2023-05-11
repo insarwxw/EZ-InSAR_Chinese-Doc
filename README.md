@@ -20,4 +20,4 @@
 
 如遇问题，请加入以下QQ群进行讨论与解决。
 
-![QQ-group](./QQ-Group.jpg)
+![QQ-group](./QQ-group.jpg)
