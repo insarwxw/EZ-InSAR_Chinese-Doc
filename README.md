@@ -14,3 +14,10 @@
 联系人：王晓文
 
 邮箱：insarwxw@swjtu.edu.cn
+
+
+### 交流QQ群
+
+如遇问题，请加入以下QQ群进行讨论与解决。
+
+[QQ-group](./QQ-Group.jpg)
